@@ -1,7 +1,6 @@
 ## hey, i'm Anson!
 
 currently studying **cs + ds** @ Purdue University.  
-currently building **Researchly**: discover and track research opportunities across academia, all in one place.
 
 ---
 
