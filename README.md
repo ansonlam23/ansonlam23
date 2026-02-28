@@ -6,6 +6,9 @@ currently studying **cs + ds** @ Purdue University.
 
 ### hackathons
 
+**Necto** - *ETHDenver 2026 · 3x Award Winner · $4000
+Decentralized compute marketplace with drag and drop AI agent workflows.
+
 **Otter** - *CalHacks 2025 · Best Use of Sui · $2000*  
 Decentralized messaging platform on the Sui blockchain.
 
@@ -28,5 +31,5 @@ Interactive simulator for alternate timelines powered by Claude.
 
 ### links
 
-**LinkedIn:** [linkedin.com/in/anson-lam-340370209](https://www.linkedin.com/in/anson-lam-340370209)  
+**LinkedIn:** https://www.linkedin.com/in/ansonlam23
 **Email:** [lam217@purdue.edu](mailto:lam217@purdue.edu)
