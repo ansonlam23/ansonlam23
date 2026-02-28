@@ -6,7 +6,7 @@ currently studying **cs + ds** @ Purdue University.
 
 ### hackathons
 
-**Necto** - *ETHDenver 2026 · 3x Award Winner · $4000
+**Necto** - ETHDenver 2026 · 3x Award Winner · $4000
 Decentralized compute marketplace with drag and drop AI agent workflows.
 
 **Otter** - *CalHacks 2025 · Best Use of Sui · $2000*  
