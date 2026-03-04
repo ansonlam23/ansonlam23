@@ -23,7 +23,6 @@ Interactive simulator for alternate timelines powered by Claude.
 ### interests
 
 - fintech and digital payments  
-- blockchain and decentralized systems  
 - venture strategy and early stage startups  
 - algorithmic trading and market design
 
@@ -31,5 +30,5 @@ Interactive simulator for alternate timelines powered by Claude.
 
 ### links
 
-**LinkedIn:** https://www.linkedin.com/in/ansonlam23
+**LinkedIn:** [https://www.linkedin.com/in/ansonlam23](https://www.linkedin.com/in/ansonlam23)  
 **Email:** [lam217@purdue.edu](mailto:lam217@purdue.edu)
