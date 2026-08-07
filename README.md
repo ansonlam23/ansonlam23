@@ -1,5 +1,7 @@
 ## hey, i'm Anson!
 
+systems swe intern @ **NVIDIA**, prev swe intern @ **LinkedIn**  
+
 currently studying **cs + ds** @ Purdue University.  
 
 ---
